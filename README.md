@@ -125,7 +125,7 @@ A navegação segue hierarquia clara: **Home → Sobre → Serviços → Contato
 | **[Nome 3]** | JavaScript: validação de formulário, máscara de telefone, tabs |
 | **[Nome 4]** | JavaScript: menu hamburguer, scroll reveal, toast notification |
 | **[Nome 5]** | Conteúdo editorial, README, QA e testes de responsividade |
-
+ 
 > **Nota:** Substitua os nomes pelos integrantes reais do grupo antes da entrega.
 
 ---
