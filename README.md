@@ -6,7 +6,7 @@ Site institucional da **Patinha Feliz**, clínica veterinária e petshop fictíc
 
 O site apresenta a clínica, seus serviços e equipe, além de um formulário de contato/agendamento com validação completa em JavaScript. O projeto foi construído com **HTML5, CSS3 e JavaScript puro (vanilla)**, sem frameworks, com foco em:
 
-- Design responsivo (mobile-first)
+- Design responsivo (mobile-first) 
 - Acessibilidade (uso de `aria-*`, `role`, skip link, foco visível)
 - Boas práticas de UX (feedback visual, validação em tempo real, máscara de telefone)
 - Identidade visual consistente entre as páginas  
